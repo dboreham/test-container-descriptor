@@ -1,0 +1,4 @@
+container:
+  name: dboreham/test-container
+  ref: github.com/dboreham/test-container@test-ci
+  build: ./build.sh
